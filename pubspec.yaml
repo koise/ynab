@@ -1,0 +1,53 @@
+name: ynab
+description: "YNAB — You Need A Budget. Personal finance tracker built with Flutter & Cupertino."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^3.13.1
+  firebase_auth: ^5.5.2
+  cloud_firestore: ^5.6.6
+
+  # State management
+  provider: ^6.1.4
+
+  # Charts (replaces Swift Charts)
+  fl_chart: ^0.70.2
+
+  # Biometric / PIN security
+  local_auth: ^2.3.0
+  flutter_secure_storage: ^9.2.4
+
+  # Notifications
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.9.4
+
+  # Export
+  csv: ^6.0.0
+  pdf: ^3.11.3
+  share_plus: ^10.1.4
+  path_provider: ^2.1.5
+
+  # Date utilities
+  intl: ^0.19.0
+
+  # Cryptography
+  crypto: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
