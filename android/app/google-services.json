@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749887029696",
+    "project_id": "ynab-f3637",
+    "storage_bucket": "ynab-f3637.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749887029696:android:379314b9b6a5651487c825",
+        "android_client_info": {
+          "package_name": "com.example.ynab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUBQq3c2wA7iNlQQOS2ax8JiDABYAJoaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

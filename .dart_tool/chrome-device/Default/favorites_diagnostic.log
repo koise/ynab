@@ -1,0 +1,25 @@
+2026-05-24 16:06:43.096: [INFO] VisibilityChanged: 0
+2026-05-24 16:06:43.137: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.140: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.142: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.144: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.147: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.149: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.152: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.154: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.157: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.160: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.162: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.164: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:43.185: [INFO] BookmarkNodeAdded, ABU: 0
+2026-05-24 16:06:43.186: [INFO] BookmarkNodeAdded, ABU: 0
+2026-05-24 16:06:43.187: [INFO] BookmarkNodeAdded, ABU: 0
+2026-05-24 16:06:43.187: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-05-24 16:06:43.187: [INFO] OnDoneLoading sync enabled: 0
+2026-05-24 16:06:43.260: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:44.114: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:44.118: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:44.121: [INFO] Primary account changed.
+2026-05-24 16:06:44.121: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-05-24 16:06:44.126: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-24 16:06:44.129: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
